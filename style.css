@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: indigo;
+}
+button{
+    border: 0;
+    background-color: seagreen;
+    color: white;
+    padding-left: 5px;
+    width: 130px;
+    font-size: 22px;
+    gap: 10px;
+    margin-top: 40px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#finished{
+    color: white;
+    font-size: 44px;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
